@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <!-- Fueling+progress+through+sheer+will+%26+a+keyboard -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&color=AC39FE&repeat=false&random=false&width=435&lines=Turning ideas into efficient solutions" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&color=AC39FE&repeat=false&random=false&width=435&lines=Turning+ideas+into+efficient+solutions" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
