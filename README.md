@@ -40,7 +40,7 @@
 </p> -->
 
 <!-- <details open>  -->
-  <summary><h2>📘 My Open Source Projects</h2></summary>
+  ## 📘 My Open Source Projects
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -52,7 +52,7 @@
 
 </details>
 
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
+  ## 📕 Projects I've Contributed To
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
@@ -66,7 +66,7 @@
   <!-- <h3>🔥 Streak Stats</h3> -->
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-  <summary><h2>💻 GitHub Profile Stats</h2></summary>
+  ## 💻 GitHub Profile Stats
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Crackvignoule&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
   <!-- TODO METTRE LES STATS EN LARGEUR -->
   <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crackvignoule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
