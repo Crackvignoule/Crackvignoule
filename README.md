@@ -17,7 +17,26 @@
 ## ⚡ Technologies
 <!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
 
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
+![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
+![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![Bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+
+<!-- RECTANGLE BADGES OLD STYLE -->
+<!-- ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![Node.js](https://shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://shields.io/badge/express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Vite](https://shields.io/badge/vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![MongoDB](https://shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -27,7 +46,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 
 <!-- Social badges section -->
